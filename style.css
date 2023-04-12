@@ -81,7 +81,7 @@ input:valid + label{
 }
 .container .field-btns button{
    width: 98%;
-   height: 7vh;
+   height: 5%;
    font-size: 18px;
    font-weight: 500;
    color: white;
